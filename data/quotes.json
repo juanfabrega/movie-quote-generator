@@ -1,0 +1,241 @@
+{
+  "quoteId": {
+    "1": {
+      "quoteText": "A census taker once tried to test me, I ate his liver with some fava beans and a nice Chianti",
+      "quoteMovie": "Silence of the Lambs",
+      "quoteImgUrl": "https://media.giphy.com/media/26FxJ7t3oj5FEQE7K/giphy.gif",
+      "imgAltText": "Silence of the Lambs"
+    },
+
+    "2": {
+      "quoteText": "Show me the money!",
+      "quoteMovie": "Jerry McGuire",
+      "quoteImgUrl": "https://media.giphy.com/media/l4HnUXJYMAJxn4n0Q/giphy.gif",
+      "imgAltText": "Jerry McGuire"
+    },
+
+    "3": {
+      "quoteText": "I am serious, and don't call me Shirley",
+      "quoteMovie": "Airplane!",
+      "quoteImgUrl": "https://media.giphy.com/media/3o7qE2HzB4rOFQr4zK/giphy.gif",
+      "imgAltText": "Airplane!"
+    },
+
+    "4": {
+      "quoteText": "We'll always have Paris.",
+      "quoteMovie": "Casablanca",
+      "quoteImgUrl": "https://media.giphy.com/media/xTdAjr0aZ8PcSAGTqE/giphy.gif",
+      "imgAltText": "Casablanca"
+    },
+
+    "5": {
+      "quoteText": "Gentlemen, you can't fight in here, this is the war room",
+      "quoteMovie": "Dr. Strangelove",
+      "quoteImgUrl": "https://media.giphy.com/media/l3V0mWUJidlLHE2f6/giphy.gif",
+      "imgAltText": "Dr. Strangelove"
+    },
+
+    "6": {
+      "quoteText": "I'm gonna make him an offer he can't refuse.",
+      "quoteMovie": "The Godfather",
+      "quoteImgUrl": "https://media.giphy.com/media/l0Iy5Wa8fkAewhfW0/giphy.gif",
+      "imgAltText": "The Godfather"
+    },
+
+    "7": {
+      "quoteText": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+      "quoteMovie": "Ferris Bueller's Day Off",
+      "quoteImgUrl": "https://media.giphy.com/media/26BRtI7Yk5PJWIfwA/giphy.gif",
+      "imgAltText": "Ferris Bueller's Day Off"
+    },
+
+    "8": {
+      "quoteText": "It's Alive!",
+      "quoteMovie": "Frankenstein",
+      "quoteImgUrl": "https://media.giphy.com/media/d3Kq5w84bzlBLVDO/giphy.gif",
+      "imgAltText": "Frankenstein"
+    },
+
+    "9": {
+      "quoteText": "You can't handle the truth!",
+      "quoteMovie": "A Few Good Men",
+      "quoteImgUrl": "https://media.giphy.com/media/l4HnOJm5yDFlhoi5i/giphy.gif",
+      "imgAltText": "A Few Good Men"
+    },
+
+    "10": {
+      "quoteText": "There's no place like home",
+      "quoteMovie": "The Wizard of Oz",
+      "quoteImgUrl": "https://media.giphy.com/media/26FxKfODnt8JQWudi/giphy.gif",
+      "imgAltText": "The Wizard of Oz"
+    },
+
+    "11": {
+      "quoteText": "Hasta la vista, baby.",
+      "quoteMovie": "Terminator",
+      "quoteImgUrl": "https://media.giphy.com/media/l4HnXFvoy74pbrOx2/giphy.gif",
+      "imgAltText": "Terminator"
+    },
+
+    "12": {
+      "quoteText": "You're gonna need a bigger boat.",
+      "quoteMovie": "Jaws",
+      "quoteImgUrl": "https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif",
+      "imgAltText": "Jaws"
+    },
+
+    "13": {
+      "quoteText": "Greed...is good.",
+      "quoteMovie": "Wall Street",
+      "quoteImgUrl": "https://media.giphy.com/media/l3V0r3ytIPeM7UyQM/giphy.gif",
+      "imgAltText": "Wall Street"
+    },
+
+    "14": {
+      "quoteText": "Open the pod bay doors HAL.",
+      "quoteMovie": "2001: A Space Odyssey",
+      "quoteImgUrl": "https://media.giphy.com/media/3o7qDJw6t5ss2FLr32/giphy.gif",
+      "imgAltText": "2001: A Space Odyssey"
+    },
+
+    "15": {
+      "quoteText": "Elementary, my dear Watson.",
+      "quoteMovie": "Sherlock Holmes",
+      "quoteImgUrl": "https://media.giphy.com/media/26AHtzSUhb85zKiWc/giphy.gif",
+      "imgAltText": "Sherlock Holmes"
+    },
+
+    "16": {
+      "quoteText": "Take your stinking hands off me, you damn dirty ape.",
+      "quoteMovie": "Planet of the Apes",
+      "quoteImgUrl": "https://media.giphy.com/media/26AHMxqsPLoaMIE6c/giphy.gif",
+      "imgAltText": "Planet of the Apes"
+    },
+
+    "17": {
+      "quoteText": "What does normal mean, anyway?",
+      "quoteMovie": "Forrest Gump",
+      "quoteImgUrl": "https://media.giphy.com/media/o3Mibrl1Uhelq/giphy.gif",
+      "imgAltText": "Forrest Gump"
+    },
+
+    "18": {
+      "quoteText": "Frankly my dear, I don't give a damn.",
+      "quoteMovie": "Gone With The Wind",
+      "quoteImgUrl": "https://media.giphy.com/media/RamgI45LBw6Kk/giphy.gif",
+      "imgAltText": "Gone With The Wind"
+    },
+
+    "19": {
+      "quoteText": "I love lamp.",
+      "quoteMovie": "Anchorman",
+      "quoteImgUrl": "https://media.giphy.com/media/ob7iv56ZX3yHm/giphy.gif",
+      "imgAltText": "Anchorman"
+    },
+
+    "20": {
+      "quoteText": "60 percent of the time, it works every time.",
+      "quoteMovie": "Anchorman",
+      "quoteImgUrl": "https://media.giphy.com/media/9Tyy1gq2SIb6w/giphy.gif",
+      "imgAltText": "Anchorman"
+    },
+
+    "21": {
+      "quoteText": "It's only after we've lost everything, that we're free to do anything.",
+      "quoteMovie": "Fight Club",
+      "quoteImgUrl": "https://media.giphy.com/media/aXiMJZrj9kxnq/giphy.gif",
+      "imgAltText": "Fight Club"
+    },
+
+    "22": {
+      "quoteText": "You talkin' to me?",
+      "quoteMovie": "Taxi Driver",
+      "quoteImgUrl": "https://media.giphy.com/media/GH5xp1xGn870Q/giphy.gif",
+      "imgAltText": "Taxi Driver"
+    },
+
+    "23": {
+      "quoteText": "Whatever.",
+      "quoteMovie": "Clueless",
+      "quoteImgUrl": "https://media.giphy.com/media/7VEb2sfLlnRYI/giphy.gif",
+      "imgAltText": "Clueless"
+    },
+
+    "24": {
+      "quoteText": "The best thing you can do is find a person that loves you exactly for what you are.",
+      "quoteMovie": "Juno",
+      "quoteImgUrl": "https://media.giphy.com/media/vzfWsVb3JQEyk/giphy.gif",
+      "imgAltText": "Juno"
+    },
+
+    "25": {
+      "quoteText": "I only surround myself with people I find intellectually stimulating.",
+      "quoteMovie": "My Girl",
+      "quoteImgUrl": "https://media.giphy.com/media/mVCsMRppl0StO/giphy.gif",
+      "imgAltText": "My Girl"
+    },
+
+    "26": {
+      "quoteText": "Why are boys such jerks?",
+      "quoteMovie": "The Little Rascals",
+      "quoteImgUrl": "https://media.giphy.com/media/IvNaGOvDC8tr2/giphy.gif",
+      "imgAltText": "The Little Rascals"
+    },
+
+    "27": {
+      "quoteText": "You're killing me Smalls!",
+      "quoteMovie": "The Sandlot",
+      "quoteImgUrl": "https://media.giphy.com/media/5xtDarpbMjJv8yjSqbK/giphy.gif",
+      "imgAltText": "The Sandlot"
+    },
+
+    "28": {
+      "quoteText": "I'm mad as hell, and I'm not gonna take it anymore!",
+      "quoteMovie": "Network",
+      "quoteImgUrl": "https://media.giphy.com/media/l3vRnMkSyknofSLpS/giphy.gif",
+      "imgAltText": "Network"
+    },
+
+    "29": {
+      "quoteText": "You are a sad, strange little man, and you have my pity.",
+      "quoteMovie": "Toy Story",
+      "quoteImgUrl": "https://media.giphy.com/media/ZaDzIysJeduMg/giphy.gif",
+      "imgAltText": "Toy Story"
+    },
+
+    "30": {
+      "quoteText": "No matter what anybody tells you, words and ideas can change the world.",
+      "quoteMovie": "Dead Poets Society",
+      "quoteImgUrl": "https://media.giphy.com/media/AKt1SLzuzXeJa/giphy.gif",
+      "imgAltText": "Dead Poets Society"
+    },
+
+    "31": {
+      "quoteText": "Are you gonna bark all day, little doggy?",
+      "quoteMovie": "Reservoir Dogs",
+      "quoteImgUrl": "https://media.giphy.com/media/10zw9bukH9iwN2/giphy.gif",
+      "imgAltText": "REservoir Dogs"
+    },
+
+    "32": {
+      "quoteText": "Girls only want boyfriends who have great skills.",
+      "quoteMovie": "Napoleon Dynamite",
+      "quoteImgUrl": "https://media.giphy.com/media/rrK7i8w1BhKj6/giphy.gif",
+      "imgAltText": "Napoleon Dynamite"
+    },
+
+    "33": {
+      "quoteText": "I just stare at my desk, but it looks like I'm working.",
+      "quoteMovie": "Office Space",
+      "quoteImgUrl": "https://media.giphy.com/media/FBYTrYyjsyq7m/giphy.gif",
+      "imgAltText": "Office Space"
+    },
+
+    "34": {
+      "quoteText": "What is happening to the world?",
+      "quoteMovie": "Mean Girls",
+      "quoteImgUrl": "https://media.giphy.com/media/hPySp5q9RnLIA/giphy.gif",
+      "imgAltText": "Mean Girls"
+    }
+  }
+}
